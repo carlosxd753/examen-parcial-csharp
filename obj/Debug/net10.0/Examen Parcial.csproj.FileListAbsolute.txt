@@ -1,0 +1,33 @@
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/appsettings.Development.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/appsettings.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Examen Parcial.staticwebassets.endpoints.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Examen Parcial
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Examen Parcial.deps.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Examen Parcial.runtimeconfig.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Examen Parcial.dll
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Examen Parcial.pdb
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.csproj.AssemblyReference.cache
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.AssemblyInfoInputs.cache
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.AssemblyInfo.cs
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.csproj.CoreCompileInputs.cache
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/scopedcss/bundle/Examen Parcial.styles.css
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/staticwebassets.build.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/staticwebassets.development.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/swae.build.ex.cache
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen P.4409EA8C.Up2Date
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.dll
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/refint/Examen Parcial.dll
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.pdb
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/Examen Parcial.genruntimeconfig.cache
+/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/Debug/net10.0/ref/Examen Parcial.dll
