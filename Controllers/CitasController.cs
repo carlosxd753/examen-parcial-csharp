@@ -34,7 +34,7 @@ public class CitasController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult Crear(Cita cita)
+    public IActionResult Crear([FromBody]Cita cita)
     {
         var medico = _medicoService.ObtenerPorId(cita.MedicoId);
         if (medico == null)

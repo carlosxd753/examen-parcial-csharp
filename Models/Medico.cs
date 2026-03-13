@@ -10,12 +10,11 @@ public class Medico
 
     [Required]
     [RegularExpression(@"^\d{9}$", ErrorMessage = "El telefono debe tener exactamente 9 digitos")]
-
     public string Telefono { get; set; } = "";
 
     [EmailAddress]
     public string Email { get; set; } = "";
 
     [Required]
-    public Especialidad Especialidad { get; set; }
+    public Especialidad? Especialidad { get; set; }
 }

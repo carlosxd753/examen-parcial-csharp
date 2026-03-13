@@ -30,7 +30,7 @@ public class MedicosController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult Crear(Medico medico)
+    public IActionResult Crear([FromBody] Medico medico)
     {
         var nuevo = _service.Crear(medico);
         return CreatedAtAction(nameof(ObtenerPorId), new { id = nuevo.Id }, nuevo);
