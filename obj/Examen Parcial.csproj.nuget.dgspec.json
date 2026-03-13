@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/IDAT/Csharp/Examen Parcial/Examen Parcial.csproj": {}
+    "/Users/user/Documents/test/examen-parcial-csharp/Examen Parcial.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/IDAT/Csharp/Examen Parcial/Examen Parcial.csproj": {
+    "/Users/user/Documents/test/examen-parcial-csharp/Examen Parcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/IDAT/Csharp/Examen Parcial/Examen Parcial.csproj",
+        "projectUniqueName": "/Users/user/Documents/test/examen-parcial-csharp/Examen Parcial.csproj",
         "projectName": "Examen Parcial",
-        "projectPath": "/Users/user/Documents/IDAT/Csharp/Examen Parcial/Examen Parcial.csproj",
+        "projectPath": "/Users/user/Documents/test/examen-parcial-csharp/Examen Parcial.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/IDAT/Csharp/Examen Parcial/obj/",
+        "outputPath": "/Users/user/Documents/test/examen-parcial-csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"

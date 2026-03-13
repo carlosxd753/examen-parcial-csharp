@@ -1,7 +1,33 @@
 public class CitaService : ICitaService
 {
-    private readonly List<Cita> citas = new List<Cita>();
-    private int nextId = 1;
+    private readonly List<Cita> citas = new List<Cita>
+    {
+        new Cita
+        {
+            Id = 1,
+            Fecha = DateTime.Now.AddDays(1),
+            PacienteId = 1,
+            MedicoId = 1,
+            Estado = EstadoCita.Confirmada
+        },
+        new Cita
+        {
+            Id = 2,
+            Fecha = DateTime.Now.AddDays(2),
+            PacienteId = 2,
+            MedicoId = 2,
+            Estado = EstadoCita.Confirmada
+        },
+        new Cita
+        {
+            Id = 3,
+            Fecha = DateTime.Now.AddDays(3),
+            PacienteId = 2,
+            MedicoId = 3,
+            Estado = EstadoCita.Confirmada
+        }
+    };
+    private int nextId = 4;
 
     public Cita Crear(Cita cita)
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HL1zcJuceqQ=",
+  "dgSpecHash": "p1AFstb38zw=",
   "success": true,
-  "projectFilePath": "/Users/user/Documents/IDAT/Csharp/Examen Parcial/Examen Parcial.csproj",
+  "projectFilePath": "/Users/user/Documents/test/examen-parcial-csharp/Examen Parcial.csproj",
   "expectedPackageFiles": [
     "/Users/user/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "/Users/user/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
